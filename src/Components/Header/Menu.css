@@ -3,7 +3,10 @@
   font-weight: 500;
   letter-spacing: 0.5px;
 }
+.nav-link:hover {
+ background: #ffffff10;
+}
 #Search input {
   border-radius: 4px;
-  background:var(--light) ;
+  background: var(--light);
 }

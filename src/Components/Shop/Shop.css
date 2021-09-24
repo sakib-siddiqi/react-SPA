@@ -5,6 +5,9 @@
   background: var(--white);
   box-shadow: 0 20px 30px -10px #38455417;
 }
+.product-card{
+  border-left: 5px solid var(--dark-lt);
+}
 .my-btn {
   padding: 6px 1.2rem;
   font-weight: 700;

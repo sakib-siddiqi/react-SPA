@@ -7,6 +7,9 @@
   --black: #444444;
   --btn-color:#6F69AC;
 }
+*{
+  box-sizing: border-box !important;
+}
 body{
   background: #f6fffa;
 }
