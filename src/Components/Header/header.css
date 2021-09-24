@@ -1,0 +1,7 @@
+@import url('../../App.css');
+.my-dark{
+    background: var(--dark) !important;
+}
+.navbar-brand img {
+    filter: invert(1);
+}

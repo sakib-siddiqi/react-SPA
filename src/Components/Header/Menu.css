@@ -1,0 +1,9 @@
+@import url("../../App.css");
+.nav-link {
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+#Search input {
+  border-radius: 4px;
+  background:var(--light) ;
+}

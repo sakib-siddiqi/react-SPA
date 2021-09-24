@@ -1,0 +1,21 @@
+:root {
+  --dark: #112031;
+  --dark-md: #152d35;
+  --dark-lt: #345b63;
+  --light: #f6fffa;
+  --white: #ffffff;
+  --black: #444444;
+  --btn-color:#6F69AC;
+}
+body{
+  background: #f6fffa;
+}
+.my-text{
+  color: var(--dark-lt);
+  font-weight: 600;
+}
+
+.my-dark{
+  background: var(--dark);
+  color: var(--white);
+}

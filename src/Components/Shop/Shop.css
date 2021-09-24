@@ -1,0 +1,21 @@
+@import url("../../App.css");
+.card {
+  border: 0px;
+  border-radius: 0px;
+  background: var(--white);
+  box-shadow: 0 20px 30px -10px #38455417;
+}
+.my-btn {
+  padding: 6px 1.2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background: var(--dark);
+  color: white;
+  border-radius: 3px;
+}
+.my-btn:hover {
+  color: #ddd;
+}
+.card-title {
+  line-height: 1.6;
+}
