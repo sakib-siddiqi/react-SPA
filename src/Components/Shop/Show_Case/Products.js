@@ -5,7 +5,7 @@ const Products = (props) => {
   const [products, setState] = useState([]);
   useEffect(() => {
     fetch(
-      "https://raw.githubusercontent.com/ProgrammingHero1/ema-john-simple-resources/master/fakeData/products.JSON"
+      "https://raw.githubusercontent.com/sakibsiddiqi15/SPA/main/src/fakeData/products.JSON?token=AUWTEP7YCLL7Y65AGWM2R63BJVB5A"
     )
       .then((res) => res.json())
       .then((data) => setState(data));
